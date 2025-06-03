@@ -176,7 +176,7 @@ function App() {
                 <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                   <div className="aspect-w-16 aspect-h-9">
                     <img 
-                      src="/images/Deluxe+queen+room.jpg" 
+                      src="/images/deluxe-queen-room.jpg" 
                       alt="Deluxe Queen Room" 
                       className="w-full h-64 object-cover"
                     />
@@ -219,7 +219,7 @@ function App() {
                 <Card className="overflow-hidden hover:shadow-lg transition-shadow">
                   <div className="aspect-w-16 aspect-h-9">
                     <img 
-                      src="/images/Deluxe+twin.jpg" 
+                      src="/images/deluxe-twin-room.jpg" 
                       alt="Deluxe King/Twin Room" 
                       className="w-full h-64 object-cover"
                     />
