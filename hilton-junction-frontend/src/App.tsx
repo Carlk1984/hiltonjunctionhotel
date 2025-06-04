@@ -42,8 +42,6 @@ function App() {
                 <h1 className="text-3xl font-bold text-gray-900" style={{ fontFamily: 'Playfair Display, serif' }}>
                   Hilton Junction Hotel
                 </h1>
-                <p className="text-gray-600">Boutique accommodation in the heart of KZN Midlands</p>
-                <p className="text-sm text-gray-500">Where luxury meets African hospitality</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
