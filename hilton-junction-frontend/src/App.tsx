@@ -32,12 +32,19 @@ function App() {
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-6">
-            <div>
-              <h1 className="text-3xl font-bold text-gray-900" style={{ fontFamily: 'Playfair Display, serif' }}>
-                Hilton Junction Hotel
-              </h1>
-              <p className="text-gray-600">Boutique accommodation in the heart of KZN Midlands</p>
-              <p className="text-sm text-gray-500">Where luxury meets African hospitality</p>
+            <div className="flex items-center space-x-4">
+              <img 
+                src="/images/hilton-junction-logo.png" 
+                alt="Hilton Junction Hotel Logo" 
+                className="h-16 w-auto"
+              />
+              <div>
+                <h1 className="text-3xl font-bold text-gray-900" style={{ fontFamily: 'Playfair Display, serif' }}>
+                  Hilton Junction Hotel
+                </h1>
+                <p className="text-gray-600">Boutique accommodation in the heart of KZN Midlands</p>
+                <p className="text-sm text-gray-500">Where luxury meets African hospitality</p>
+              </div>
             </div>
             <div className="flex items-center space-x-4">
               <Phone className="h-5 w-5" style={{ color: '#2A4D69' }} />
