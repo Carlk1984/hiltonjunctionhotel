@@ -47,7 +47,7 @@ function App() {
             </div>
             <div className="flex items-center space-x-4">
               <Phone className="h-5 w-5" style={{ color: '#2A4D69' }} />
-              <span className="text-gray-700">+27 84 881 0561</span>
+              <span className="text-gray-700">071 456 0892</span>
             </div>
           </div>
           
@@ -700,13 +700,13 @@ function App() {
               <Card className="p-6 text-center">
                 <Phone className="h-8 w-8 mx-auto mb-3" style={{ color: '#4B86B4' }} />
                 <h3 className="font-semibold mb-2" style={{ color: '#2A4D69' }}>24/7 Phone Support</h3>
-                <p className="text-gray-600">+27 84 881 0561</p>
+                <p className="text-gray-600">071 456 0892</p>
               </Card>
               
               <Card className="p-6 text-center">
                 <Mail className="h-8 w-8 mx-auto mb-3" style={{ color: '#4B86B4' }} />
                 <h3 className="font-semibold mb-2" style={{ color: '#2A4D69' }}>Email Support</h3>
-                <p className="text-gray-600">info@hiltonjunction.co.za</p>
+                <p className="text-gray-600">bookings@hiltonjunctionhotel.co.za</p>
               </Card>
               
               <Card className="p-6 text-center">
@@ -766,11 +766,11 @@ function App() {
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-5 w-5 mr-3" style={{ color: '#4B86B4' }} />
-                  <span className="text-gray-300">+27 84 881 0561</span>
+                  <span className="text-gray-300">071 456 0892</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="h-5 w-5 mr-3" style={{ color: '#4B86B4' }} />
-                  <span className="text-gray-300">info@hiltonjunction.co.za</span>
+                  <span className="text-gray-300">bookings@hiltonjunctionhotel.co.za</span>
                 </div>
               </div>
             </div>
